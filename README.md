@@ -1,2 +1,1 @@
-# tempreture-API
-tempreture in Warsaw, API openweather
+AJAX to check temperature in Warsaw
